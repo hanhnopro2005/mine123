@@ -1,10 +1,10 @@
 [
     {
-        "location":"The Crater",
+        "location":"The Earth",
         "area":[
             {   
                 "ID": 0,
-                "name":"Safe Shallows",
+                "name":"Hang Động",
                 "creature":[
                     {
                         "ID":0,
