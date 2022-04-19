@@ -8,11 +8,11 @@
                 "creature":[
                     {
                         "ID":0,
-                        "name":"Đất đã từng đập",
+                        "name":"Viên Kim Cương",
                         "category":"Common",
                         "size":32,
                         "sell":200,
-                        "image": "https://i.imgur.com/QTnzdAw.png"
+                        "image": "https://i.imgur.com/yRwGNQf.png"
                     },
                     {
                         "ID":1,
@@ -20,7 +20,7 @@
                         "category":"Common",
                         "size":31,
                         "sell":200,
-                        "image": "https://i.imgur.com/thSgfGi.png"
+                        "image": "https://i.imgur.com/8BZqPqS.jpg"
                     },
                     {
                         "ID":2,
@@ -48,11 +48,11 @@
                     },
                     {
                         "ID":5,
-                        "name":"Gasopod",
+                        "name":"Ngọc lưu Ly",
                         "category":"Rare",
                         "size":4700,
                         "sell":1800,
-                        "image": "https://i.imgur.com/d5RYnzo.png"
+                        "image": "https://i.imgur.com/d9gedJU.png"
                     },
                     {
                         "ID":6,
@@ -60,7 +60,7 @@
                         "category":"Uncommon",
                         "size":40,
                         "sell":370,
-                        "image": "https://i.imgur.com/jjzQDkj.png"
+                        "image": "https://i.imgur.com/oWqnBXz.jpg"
                     },
                     {
                         "ID":7,
@@ -72,19 +72,19 @@
                     },
                     {
                         "ID":8,
-                        "name":"Holefish",
+                        "name":"Đá Granite",
                         "category":"Common",
                         "size":30,
                         "sell":200,
-                        "image": "https://i.imgur.com/1dTrbf4.png"
+                        "image": "https://i.imgur.com/Sr32pdv.jpg"
                     },
                     {
                         "ID":9,
-                        "name":"Garryfish",
+                        "name":"Sỏi",
                         "category":"Common",
                         "size":37,
                         "sell":250,
-                        "image": "https://i.imgur.com/CNzSzIY.png"
+                        "image": "https://i.imgur.com/Gl4ylvn.jpg"
                     }
                 ]
             },
@@ -94,19 +94,19 @@
                 "creature":[
                     {
                         "ID":0,
-                        "name":"Peeper",
+                        "name":"Đất",
                         "category":"Common",
                         "size":31,
                         "sell":200,
-                        "image": "https://i.imgur.com/Knd4axq.png"
+                        "image": "https://i.imgur.com/8BZqPqS.jpg"
                     },
                     {
                         "ID":1,
-                        "name":"Reefback Leviathan",
+                        "name":"Đá Granite",
                         "category":"Common",
                         "size":37,
                         "sell":250,
-                        "image": "https://i.imgur.com/Knd4axq.png"
+                        "image": "https://i.imgur.com/Sr32pdv.jpg"
                     },
                     {
                         "ID":2,
@@ -118,11 +118,11 @@
                     },
                     {
                         "ID":3,
-                        "name":"Shuttlebug",
+                        "name":"Sỏi",
                         "category":"Uncommon",
                         "size":27,
                         "sell":410,
-                        "image": "https://i.imgur.com/Mly7Elf.png"
+                        "image": "https://i.imgur.com/Gl4ylvn.jpg"
                     }
                 ]
             },
@@ -148,7 +148,7 @@
                     },
                     {
                         "ID":2,
-                        "name":"Block gold",
+                        "name":"Quặng Vàng",
                         "category":"Common",
                         "size":27,
                         "sell":200,
@@ -172,7 +172,7 @@
                     },
                     {
                         "ID":5,
-                        "name":"Ngọc Lưu Ly",
+                        "name":"Quặng Lưu Ly",
                         "category":"Uncommon",
                         "size":40,
                         "sell":370,
@@ -194,27 +194,27 @@
                 "creature":[
                     {
                         "ID":0,
-                        "name":"Ampeel",
+                        "name":"Đất",
                         "category":"Rare",
                         "size":1100,
                         "sell":4050,
-                        "image": "https://i.imgur.com/hHyRaNE.jpg"
+                        "image": "https://i.imgur.com/8BZqPqS.jpg"
                     },
                     {
                         "ID":1,
-                        "name":"Blighter",
+                        "name":"Sỏi",
                         "category":"Uncommon",
                         "size":22,
                         "sell":300,
-                        "image": "https://i.imgur.com/ke5jbH3.jpg"
+                        "image": "https://i.imgur.com/Gl4ylvn.jpg"
                     },
                     {
                         "ID":2,
-                        "name":"Blood Crawler",
+                        "name":"Đá Granite",
                         "category":"Uncommon",
                         "size":40,
                         "sell":500,
-                        "image": "https://i.imgur.com/QKrzlCr.png"
+                        "image": "https://i.imgur.com/Sr32pdv.jpg"
                     },
                     {
                         "ID":3,
@@ -240,11 +240,11 @@
                 "creature":[
                     {
                         "ID":0,
-                        "name":"Ampeel",
+                        "name":"Cát Cứng",
                         "category":"Rare",
                         "size":11,
                         "sell":4050,
-                        "image": "https://i.imgur.com/hHyRaNE.jpg"
+                        "image": "https://i.imgur.com/nDxQlez.jpg"
                     },
                     {
                         "ID":1,
@@ -274,11 +274,11 @@
             },
             {   
                 "ID": 5,
-                "name":"Đền Thờ Sa Mạc",
+                "name":"Vùng Đất Nấm",
                 "creature":[
                     {
                         "ID":0,
-                        "name":"Boomerang",
+                        "name":"Đất Nhiễm Nấm",
                         "category":"Common",
                         "size":31,
                         "sell":200,
@@ -286,15 +286,15 @@
                     },
                     {
                         "ID":1,
-                        "name":"Crabsquid",
+                        "name":"Đá",
                         "category":"Rare",
                         "size":500,
                         "sell":2100,
-                        "image": "https://i.imgur.com/KBzDuHM.png"
+                        "image": "https://i.imgur.com/XKv8I3a.png"
                     },
                     {
                         "ID":2,
-                        "name":"Jelly Ray",
+                        "name":"Đá Vỡ",
                         "category":"Uncommon",
                         "size":190,
                         "sell":760,
@@ -378,19 +378,19 @@
                 "creature":[
                     {
                         "ID":0,
-                        "name":"Bladderfish",
+                        "name":"Đất Sét",
                         "category":"Common",
                         "size":32,
                         "sell":200,
-                        "image": "https://i.imgur.com/W5IegiJ.png"
+                        "image": "https://i.imgur.com/y2K6sBt.png"
                     },
                     {
                         "ID":1,
-                        "name":"Boneshark",
+                        "name":"Trầm Tích",
                         "category":"Rare",
                         "size":8400,
                         "sell":3770,
-                        "image": "https://i.imgur.com/WcZE7hq.png"
+                        "image": "https://i.imgur.com/c3cnoMY.jpg"
                     },
                     {
                         "ID":2,
@@ -402,11 +402,11 @@
                     },
                     {
                         "ID":3,
-                        "name":"Eyeye",
+                        "name":"Đá Sỏi",
                         "category":"Common",
                         "size":28,
                         "sell":180,
-                        "image": "https://i.imgur.com/jdcU4nC.png"
+                        "image": "https://i.imgur.com/8rAzBAd.jpg"
                     },
                     {
                         "ID":4,
@@ -496,35 +496,35 @@
                 "creature":[
                     {
                         "ID":0,
-                        "name":"Crimson Ray",
+                        "name":"Đá Nguyên khối",
                         "category":"Uncommon",
                         "size":300,
                         "sell":100,
-                        "image": "https://i.imgur.com/ii63Q5r.png"
+                        "image": "https://i.imgur.com/6FeUkfs.png"
                     },
                     {
                         "ID":1,
-                        "name":"Lava Larva",
+                        "name":"Xương Hóa Thạch",
                         "category":"Uncommon",
                         "size":24,
                         "sell":410,
-                        "image": "https://i.imgur.com/DEhFwIb.png"
+                        "image": "https://i.imgur.com/unnT9La.png"
                     },
                     {
                         "ID":2,
-                        "name":"Lava Lizard",
+                        "name":"Đá Thờ",
                         "category":"Rare",
                         "size":870,
                         "sell":3850,
-                        "image": "https://i.imgur.com/AblidWp.png"
+                        "image": "https://i.imgur.com/ySBbfqN.png"
                     },
                     {
                         "ID":3,
-                        "name":"Magmarang",
+                        "name":"Đất",
                         "category":"Common",
                         "size":33,
                         "sell":210,
-                        "image": "https://i.imgur.com/0bOcIwM.png"
+                        "image": "https://i.imgur.com/8BZqPqS.jpg"
                     },
                     {
                         "ID":4,
@@ -586,11 +586,11 @@
                 "creature":[
                     {
                         "ID":0,
-                        "name":"Arctic Peeper",
+                        "name":"Gạch Nether",
                         "category":"Common",
                         "size":34,
                         "sell":200,
-                        "image": "https://i.imgur.com/Qsx7khe.png"
+                        "image": "https://i.imgur.com/Pzu9xiT.png"
                     },
                     {
                         "ID":1,
