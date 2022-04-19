@@ -4,7 +4,7 @@
         "area":[
             {   
                 "ID": 0,
-                "name":"Hang Động",
+                "name":"Nơi Khởi Nguyên",
                 "creature":[
                     {
                         "ID":0,
@@ -90,7 +90,7 @@
             },
             {   
                 "ID": 1,
-                "name":"Sparse Reef",
+                "name":"Villager",
                 "creature":[
                     {
                         "ID":0,
@@ -128,7 +128,7 @@
             },
             {   
                 "ID": 2,
-                "name":"Kelp Forest",
+                "name":"Hang Động",
                 "creature":[
                     {
                         "ID":0,
@@ -190,7 +190,7 @@
             },
             {
                 "ID": 3,
-                "name":"Blood Kelp Zone",
+                "name":"Hầm Mỏ Hoang",
                 "creature":[
                     {
                         "ID":0,
@@ -236,7 +236,7 @@
             },
             {   
                 "ID": 4,
-                "name":"Mushroom Forest",
+                "name":"Sa Mạc",
                 "creature":[
                     {
                         "ID":0,
@@ -274,7 +274,7 @@
             },
             {   
                 "ID": 5,
-                "name":"Deep Grand Reef",
+                "name":"Đền Thờ Sa Mạc",
                 "creature":[
                     {
                         "ID":0,
@@ -320,7 +320,7 @@
             },
             {   
                 "ID": 6,
-                "name":"Lost River",
+                "name":"Núi Tuyết",
                 "creature":[
                     {
                         "ID":0,
@@ -374,7 +374,7 @@
             },
             {   
                 "ID": 7,
-                "name":"Crash Zone",
+                "name":"Pháo Đài Dưới Biển",
                 "creature":[
                     {
                         "ID":0,
@@ -492,7 +492,7 @@
             },
             {   
                 "ID": 8,
-                "name":"Inactive Lava Zone – Lava Lake",
+                "name":"Tàn Tích Cổ Đại",
                 "creature":[
                     {
                         "ID":0,
@@ -554,7 +554,7 @@
             },
             {   
                 "ID": 9,
-                "name":"Crater Edge – The Void",
+                "name":"Tọa Độ Vô Cực",
                 "rate": 94,
                 "creature":[
                     {
@@ -578,11 +578,11 @@
         ]
     },
     {
-        "location":"Sector Zero",
+        "location":"Nether World Và The End",
         "area":[
             {   
                 "ID": 0,
-                "name":"Shallow Twisty Bridges – Twisty Bridges",
+                "name":"Phái Đài Nether",
                 "creature":[
                     {
                         "ID":0,
@@ -628,7 +628,7 @@
             },
             {   
                 "ID": 1,
-                "name":"Sparse Arctic  ",
+                "name":"Đầm Lầy Nether World",
                 "creature":[
                     {
                         "ID":0,
@@ -674,7 +674,7 @@
             },
             {   
                 "ID": 2,
-                "name":"Arctic Kelp Forest",
+                "name":"Rừng Ác Mộng",
                 "creature":[
                     {
                         "ID":0,
@@ -728,7 +728,7 @@
             },
             {   
                 "ID": 3,
-                "name":"Lilypad Islands",
+                "name":"Tàn Tích Nether Cổ",
                 "creature":[
                     {
                         "ID":0,
@@ -822,7 +822,7 @@
             },
             {   
                 "ID": 4,
-                "name":"Purple Vents",
+                "name":"Đại Dương Nether",
                 "creature":[
                     {
                         "ID":0,
@@ -868,7 +868,7 @@
             },
             {   
                 "ID": 5,
-                "name":"Crystal Caves",
+                "name":"Pháo Đài Heo",
                 "creature":[
                     {
                         "ID":0,
@@ -922,7 +922,7 @@
             },
             {   
                 "ID": 6,
-                "name":"Arctic",
+                "name":"Rừng Máu",
                 "creature":[
                     {
                         "ID":0,
@@ -1016,7 +1016,7 @@
             },
             {   
                 "ID": 7,
-                "name":"World Edge – The Void",
+                "name":"End City",
                 "rate": 95,
                 "creature":[
                     {
