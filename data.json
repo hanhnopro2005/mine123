@@ -669,6 +669,14 @@
                         "size":450,
                         "sell":8690,
                         "image": "https://i.imgur.com/pHRTy2l.png"
+                    },
+                    {
+                        "ID":5,
+                        "name":"Cát Linh Hồn",
+                        "category":"Uncommon",
+                        "size":32,
+                        "sell":220,
+                        "image": "https://i.imgur.com/kF12cBQ.png"
                     }
                 ]
             },
@@ -723,6 +731,22 @@
                         "size":120,
                         "sell":1100,
                         "image": "https://i.imgur.com/tjJgtol.png"
+                    },
+                    {
+                        "ID":6,
+                        "name":"Đất Nether",
+                        "category":"Uncommon",
+                        "size":32,
+                        "sell":220,
+                        "image": "https://i.imgur.com/gLYYk05.png"
+                    },
+                    {
+                        "ID":7,
+                        "name":"Cát Linh Hồn",
+                        "category":"Uncommon",
+                        "size":32,
+                        "sell":220,
+                        "image": "https://i.imgur.com/kF12cBQ.png"
                     }
                 ]
             },
@@ -764,59 +788,19 @@
                     },
                     {
                         "ID":4,
-                        "name":"Feather Fish",
-                        "category":"Uncommon",
-                        "size":32,
-                        "sell":410,
-                        "image": "https://i.imgur.com/hvfqv6n.png"
-                    },
-                    {
-                        "ID":5,
-                        "name":"Glow Whale",
-                        "category":"Epic",
-                        "size":3000,
-                        "sell":15120,
-                        "image": "https://i.imgur.com/DkQGFvG.png"
-                    },
-                    {
-                        "ID":6,
-                        "name":"Hoopfish",
-                        "category":"Common",
-                        "size":27,
-                        "sell":190,
-                        "image": "https://i.imgur.com/1I7IeiH.png"
-                    },
-                    {
-                        "ID":7,
-                        "name":"Lily Paddler",
-                        "category":"Rare",
-                        "size":100,
-                        "sell":970,
-                        "image": "https://i.imgur.com/I1ZUZll.png"
-                    },
-                    {
-                        "ID":8,
-                        "name":"Noot Fish",
-                        "category":"Uncommon",
-                        "size":74,
-                        "sell":740,
-                        "image": "https://i.imgur.com/jR73WON.png"
-                    },
-                    {
-                        "ID":9,
-                        "name":"Sea Monkey",
+                        "name":"Cát Linh Hồn",
                         "category":"Rare",
                         "size":120,
                         "sell":1100,
-                        "image": "https://i.imgur.com/QsbkHfj.png"
+                        "image": "https://i.imgur.com/kF12cBQ.png"
                     },
                     {
-                        "ID":10,
-                        "name":"Squidshark",
+                        "ID":5,
+                        "name":"Đất Nether",
                         "category":"Rare",
                         "size":11,
                         "sell":6280,
-                        "image": "https://i.imgur.com/OTyFBsE.png"
+                        "image": "https://i.imgur.com/gLYYk05.png"
                     }
                 ]
             },
@@ -979,6 +963,22 @@
                         "size":32,
                         "sell":220,
                         "image": "https://i.imgur.com/zehWGoZ.png"
+                    },
+                    {
+                        "ID":8,
+                        "name":"Cát Linh Hồn",
+                        "category":"Uncommon",
+                        "size":32,
+                        "sell":220,
+                        "image": "https://i.imgur.com/kF12cBQ.png"
+                    },
+                    {
+                        "ID":9,
+                        "name":"Đất Nether",
+                        "category":"Uncommon",
+                        "size":32,
+                        "sell":220,
+                        "image": "https://i.imgur.com/gLYYk05.png"
                     }
                 ]
             },
