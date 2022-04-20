@@ -1018,6 +1018,70 @@
                         "size":32,
                         "sell":220,
                         "image": "https://i.imgur.com/BLs3nlz.png"
+                    },
+                    {
+                        "ID":4,
+                        "name":"End Stone",
+                        "category":"Uncommon",
+                        "size":32,
+                        "sell":220,
+                        "image": "https://i.imgur.com/k2XITkN.jpg"
+                    },
+                    {
+                        "ID":5,
+                        "name":"End Stone",
+                        "category":"Uncommon",
+                        "size":32,
+                        "sell":220,
+                        "image": "https://i.imgur.com/J3PwVSr.jpg"
+                    },
+                    {
+                        "ID":6,
+                        "name":"Chorus Plant",
+                        "category":"Uncommon",
+                        "size":32,
+                        "sell":220,
+                        "image": "https://i.imgur.com/8o1Hfzf.png"
+                    },
+                    {
+                        "ID":7,
+                        "name":"Chorus Flower",
+                        "category":"Uncommon",
+                        "size":32,
+                        "sell":220,
+                        "image": "https://i.imgur.com/2MKF1aE.png"
+                    },
+                    {
+                        "ID":8,
+                        "name":"Chorus Fruit",
+                        "category":"Uncommon",
+                        "size":32,
+                        "sell":220,
+                        "image": "https://i.imgur.com/rlHbPyR.png"
+                    },
+                    {
+                        "ID":9,
+                        "name":"Warped Stone",
+                        "category":"Uncommon",
+                        "size":32,
+                        "sell":220,
+                        "image": "https://i.imgur.com/PYWUy9F.png"
+                    },
+                    {
+                        "ID":10,
+                        "name":"Tesselated Ender Pearl",
+                        "category":"Uncommon",
+                        "size":32,
+                        "sell":220,
+                        "image": "https://i.imgur.com/3Cbboi8.png"
+                    },
+                    {
+                        "ID":11,
+                        "name":"End Stone Geode,
+                        "category":"Uncommon",
+                        "size":32,
+                        "sell":220,
+                        "image": "https://i.imgur.com/PiEVMNX.png"
                     }
                 ]
             }
