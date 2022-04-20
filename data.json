@@ -656,19 +656,19 @@
                     },
                     {
                         "ID":3,
-                        "name":"Symbiote",
+                        "name":"Crying Obsidian",
                         "category":"Rare",
                         "size":21,
                         "sell":560,
-                        "image": "https://i.imgur.com/HyPRuuO.png"
+                        "image": "https://i.imgur.com/tjJgtol.png"
                     },
                     {
                         "ID":4,
-                        "name":"Titan Holefish",
+                        "name":"Obsidian",
                         "category":"Epic",
                         "size":450,
                         "sell":8690,
-                        "image": "https://i.imgur.com/2uJIRkL.png"
+                        "image": "https://i.imgur.com/pHRTy2l.png"
                     }
                 ]
             },
@@ -710,19 +710,19 @@
                     },
                     {
                         "ID":4,
-                        "name":"Pinnacarid",
+                        "name":"Obsidian",
                         "category":"Uncommon",
                         "size":54,
                         "sell":480,
-                        "image": "https://i.imgur.com/pbOeb3U.png"
+                        "image": "https://i.imgur.com/pHRTy2l.png"
                     },
                     {
                         "ID":5,
-                        "name":"Sea Monkey",
+                        "name":"Crying Obsidian",
                         "category":"Rare",
                         "size":120,
                         "sell":1100,
-                        "image": "https://i.imgur.com/QsbkHfj.png"
+                        "image": "https://i.imgur.com/tjJgtol.png"
                     }
                 ]
             },
@@ -748,19 +748,19 @@
                     },
                     {
                         "ID":2,
-                        "name":"Boomerang",
+                        "name":"Crying Obsidian",
                         "category":"Common",
                         "size":31,
                         "sell":200,
-                        "image": "https://i.imgur.com/dtBM9sP.png"
+                        "image": "https://i.imgur.com/tjJgtol.png"
                     },
                     {
                         "ID":3,
-                        "name":"Brute Shark",
+                        "name":"Obsidian",
                         "category":"Rare",
                         "size":560,
                         "sell":3100,
-                        "image": "https://i.imgur.com/uhCtIkO.png"
+                        "image": "https://i.imgur.com/pHRTy2l.png"
                     },
                     {
                         "ID":4,
@@ -850,19 +850,19 @@
                     },
                     {
                         "ID":3,
-                        "name":"Cryptosuchus",
+                        "name":"Obsidian",
                         "category":"Rare",
                         "size":650,
                         "sell":3440,
-                        "image": "https://i.imgur.com/LZQ1901.png"
+                        "image": "https://i.imgur.com/pHRTy2l.png"
                     },
                     {
                         "ID":4,
-                        "name":"Feather Fish",
+                        "name":"Crying Obsidian",
                         "category":"Uncommon",
                         "size":32,
                         "sell":410,
-                        "image": "https://i.imgur.com/hvfqv6n.png"
+                        "image": "https://i.imgur.com/tjJgtol.png"
                     }
                 ]
             },
@@ -896,27 +896,19 @@
                     },
                     {
                         "ID":3,
-                        "name":"Rock Puncher",
+                        "name":"Obsidian",
                         "category":"Rare",
                         "size":2,
                         "sell":1890,
-                        "image": "https://i.imgur.com/5f8kjk5.png"
+                        "image": "https://i.imgur.com/pHRTy2l.png"
                     },
                     {
                         "ID":4,
-                        "name":"Shadow Leviathan",
+                        "name":"Crying Obsidian",
                         "category":"Legendary",
                         "size":6000,
                         "sell":1050700,
-                        "image": "https://i.imgur.com/dinzzWr.png"
-                    },
-                    {
-                        "ID":5,
-                        "name":"Triops",
-                        "category":"Common",
-                        "size":30,
-                        "sell":200,
-                        "image": "https://i.imgur.com/5oDIu17.png"
+                        "image": "https://i.imgur.com/tjJgtol.png"
                     }
                 ]
             },
@@ -958,59 +950,35 @@
                     },
                     {
                         "ID":4,
-                        "name":"Chelicerate",
+                        "name":"Obsidian",
                         "category":"Legendary",
                         "size":5500,
                         "sell":876500,
-                        "image": "https://i.imgur.com/PaeEsyM.png"
+                        "image": "https://i.imgur.com/pHRTy2l.png"
                     },
                     {
                         "ID":5,
-                        "name":"Glow Whale",
+                        "name":"Crying Obsidian",
                         "category":"Epic",
                         "size":30,
                         "sell":15120,
-                        "image": "https://i.imgur.com/DkQGFvG.png"
+                        "image": "https://i.imgur.com/tjJgtol.png"
                     },
                     {
                         "ID":6,
-                        "name":"Pengling",
+                        "name":"Nether Quartz Ore",
                         "category":"Uncommon",
                         "size":63,
                         "sell":650,
-                        "image": "https://i.imgur.com/Qy0kJT5.png"
+                        "image": "https://i.imgur.com/2lk1JeN.png"
                     },
                     {
                         "ID":7,
-                        "name":"Pengwing",
+                        "name":"Quặng Hạt Vàng",
                         "category":"Uncommon",
                         "size":32,
                         "sell":220,
-                        "image": "https://i.imgur.com/dH8XB25.png"
-                    },
-                    {
-                        "ID":8,
-                        "name":"Pinnacarid",
-                        "category":"Uncommon",
-                        "size":54,
-                        "sell":480,
-                        "image": "https://i.imgur.com/pbOeb3U.png"
-                    },
-                    {
-                        "ID":9,
-                        "name":"Rockgrub",
-                        "category":"Epic",
-                        "size":24,
-                        "sell":1180,
-                        "image": "https://i.imgur.com/xbdLdm4.jpg"
-                    },
-                    {
-                        "ID":10,
-                        "name":"Titan Holefish",
-                        "category":"Epic",
-                        "size":450,
-                        "sell":8690,
-                        "image": "https://i.imgur.com/2uJIRkL.png"
+                        "image": "https://i.imgur.com/zehWGoZ.png"
                     }
                 ]
             },
