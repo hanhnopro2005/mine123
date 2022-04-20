@@ -594,19 +594,19 @@
                     },
                     {
                         "ID":1,
-                        "name":"Bladderfish",
+                        "name":"Gạch Nether Thẫm",
                         "category":"Common",
                         "size":32,
                         "sell":200,
-                        "image": "https://i.imgur.com/W5IegiJ.png"
+                        "image": "https://i.imgur.com/hmpZFNN.png"
                     },
                     {
                         "ID":2,
-                        "name":"Boomerang",
+                        "name":"Quặng Hạt Vàng",
                         "category":"Common",
                         "size":31,
                         "sell":200,
-                        "image": "https://i.imgur.com/dtBM9sP.png"
+                        "image": "https://i.imgur.com/zehWGoZ.png"
                     },
                     {
                         "ID":3,
@@ -632,11 +632,11 @@
                 "creature":[
                     {
                         "ID":0,
-                        "name":"Arctic Peeper",
+                        "name":"Quặng Hạt Vàng",
                         "category":"Common",
                         "size":34,
                         "sell":200,
-                        "image": "https://i.imgur.com/Qsx7khe.png"
+                        "image": "https://i.imgur.com/zehWGoZ.png"
                     },
                     {
                         "ID":1,
@@ -678,19 +678,19 @@
                 "creature":[
                     {
                         "ID":0,
-                        "name":"Arctic Peeper",
+                        "name":"Gỗ Linh Hồn",
                         "category":"Common",
                         "size":34,
                         "sell":200,
-                        "image": "https://i.imgur.com/Qsx7khe.png"
+                        "image": "https://i.imgur.com/LY4UIG8.png"
                     },
                     {
                         "ID":1,
-                        "name":"Boomerang",
+                        "name":" Quặng Hạt Vàng",
                         "category":"Common",
                         "size":31,
                         "sell":200,
-                        "image": "https://i.imgur.com/dtBM9sP.png"
+                        "image": "https://i.imgur.com/zehWGoZ.png"
                     },
                     {
                         "ID":2,
@@ -732,11 +732,11 @@
                 "creature":[
                     {
                         "ID":0,
-                        "name":"Arrow Ray",
+                        "name":"Nether Quartz Ore",
                         "category":"Uncommon",
                         "size":120,
                         "sell":990,
-                        "image": "https://i.imgur.com/NJKErJi.png"
+                        "image": "https://i.imgur.com/2lk1JeN.png"
                     },
                     {
                         "ID":1,
@@ -826,19 +826,19 @@
                 "creature":[
                     {
                         "ID":0,
-                        "name":"Bladderfish",
+                        "name":"Quặng Hạt Vàng",
                         "category":"Common",
                         "size":32,
                         "sell":200,
-                        "image": "https://i.imgur.com/W5IegiJ.png"
+                        "image": "https://i.imgur.com/zehWGoZ.png"
                     },
                     {
                         "ID":1,
-                        "name":"Chelicerate",
+                        "name":"Nether Quartz Ore",
                         "category":"Legendary",
                         "size":5500,
                         "sell":876500,
-                        "image": "https://i.imgur.com/PaeEsyM.png"
+                        "image": "https://i.imgur.com/2lk1JeN.png"
                     },
                     {
                         "ID":2,
@@ -872,19 +872,19 @@
                 "creature":[
                     {
                         "ID":0,
-                        "name":"Bladderfish",
+                        "name":"Quặng Hạt Vàng",
                         "category":"Common",
                         "size":32,
                         "sell":200,
-                        "image": "https://i.imgur.com/W5IegiJ.png"
+                        "image": "https://i.imgur.com/zehWGoZ.png"
                     },
                     {
                         "ID":1,
-                        "name":"Red Feather Fish",
+                        "name":"Nether Quartz Ore",
                         "category":"Uncommon",
                         "size":35,
                         "sell":440,
-                        "image": "https://i.imgur.com/6eugLip.png"
+                        "image": "https://i.imgur.com/2lk1JeN.png"
                     },
                     {
                         "ID":2,
@@ -926,27 +926,27 @@
                 "creature":[
                     {
                         "ID":0,
-                        "name":"Arctic Peeper",
+                        "name":"Gỗ Thẫm",
                         "category":"Common",
                         "size":34,
                         "sell":200,
-                        "image": "https://i.imgur.com/Qsx7khe.png"
+                        "image": "https://i.imgur.com/NzgXwCn.gif"
                     },
                     {
                         "ID":1,
-                        "name":"Arctic Ray",
+                        "name":"Quặng Hạt Vàng",
                         "category":"Uncommon",
                         "size":120,
                         "sell":990,
-                        "image": "https://i.imgur.com/fJwcFHQ.png"
+                        "image": "https://i.imgur.com/zehWGoZ.png"
                     },
                     {
                         "ID":2,
-                        "name":"Bladderfish",
+                        "name":"Nether Quartz Ore",
                         "category":"Common",
                         "size":32,
                         "sell":200,
-                        "image": "https://i.imgur.com/W5IegiJ.png"
+                        "image": "https://i.imgur.com/2lk1JeN.png"
                     },
                     {
                         "ID":3,
