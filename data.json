@@ -610,19 +610,19 @@
                     },
                     {
                         "ID":3,
-                        "name":"Hoopfish",
+                        "name":"Mảnh Vỡ Cổ Đại",
                         "category":"Common",
                         "size":27,
                         "sell":190,
-                        "image": "https://i.imgur.com/1I7IeiH.png"
+                        "image": "https://i.imgur.com/JJwen49.png"
                     },
                     {
                         "ID":4,
-                        "name":"Arctic Ray",
+                        "name":"Nether Quartz Ore",
                         "category":"Uncommon",
                         "size":120,
                         "sell":990,
-                        "image": "https://i.imgur.com/fJwcFHQ.png"
+                        "image": "https://i.imgur.com/2lk1JeN.png"
                     }
                 ]
             },
@@ -640,19 +640,19 @@
                     },
                     {
                         "ID":1,
-                        "name":"Brinewing",
+                        "name":"Nether Quartz Ore",
                         "category":"Uncommon",
                         "size":68,
                         "sell":670,
-                        "image": "https://i.imgur.com/jsA3grS.png"
+                        "image": "https://i.imgur.com/2lk1JeN.png"
                     },
                     {
                         "ID":2,
-                        "name":"Pengwing",
+                        "name":"Mảnh Vỡ Cổ Đại",
                         "category":"Uncommon",
                         "size":32,
                         "sell":220,
-                        "image": "https://i.imgur.com/dH8XB25.png"
+                        "image": "https://i.imgur.com/JJwen49.png"
                     },
                     {
                         "ID":3,
@@ -694,19 +694,19 @@
                     },
                     {
                         "ID":2,
-                        "name":"Pengling",
+                        "name":"Mảnh Vỡ Cổ Đại",
                         "category":"Uncommon",
                         "size":63,
                         "sell":650,
-                        "image": "https://i.imgur.com/Qy0kJT5.png"
+                        "image": "https://i.imgur.com/JJwen49.png"
                     },
                     {
                         "ID":3,
-                        "name":"Pengwing",
+                        "name":"Nether Quartz Ore",
                         "category":"Uncommon",
                         "size":32,
                         "sell":220,
-                        "image": "https://i.imgur.com/dH8XB25.png"
+                        "image": "https://i.imgur.com/2lk1JeN.png"
                     },
                     {
                         "ID":4,
@@ -740,11 +740,11 @@
                     },
                     {
                         "ID":1,
-                        "name":"Bladderfish",
+                        "name":"Mảnh Vỡ Cổ Đại",
                         "category":"Common",
                         "size":32,
                         "sell":200,
-                        "image": "https://i.imgur.com/W5IegiJ.png"
+                        "image": "https://i.imgur.com/JJwen49.png"
                     },
                     {
                         "ID":2,
@@ -842,11 +842,11 @@
                     },
                     {
                         "ID":2,
-                        "name":"Crashfish",
+                        "name":"Mảnh Vỡ Cổ Đại",
                         "category":"Uncommon",
                         "size":28,
                         "sell":350,
-                        "image": "https://i.imgur.com/qrU1J3y.png"
+                        "image": "https://i.imgur.com/JJwen49.png"
                     },
                     {
                         "ID":3,
@@ -888,11 +888,11 @@
                     },
                     {
                         "ID":2,
-                        "name":"Rockgrub",
+                        "name":"Mảnh Vỡ Cổ Đại",
                         "category":"Epic",
                         "size":24,
                         "sell":1180,
-                        "image": "https://i.imgur.com/xbdLdm4.jpg"
+                        "image": "https://i.imgur.com/JJwen49.png"
                     },
                     {
                         "ID":3,
@@ -950,11 +950,11 @@
                     },
                     {
                         "ID":3,
-                        "name":"Boomerang",
+                        "name":"Mảnh Vỡ Cổ Đại",
                         "category":"Common",
                         "size":31,
                         "sell":200,
-                        "image": "https://i.imgur.com/dtBM9sP.png"
+                        "image": "https://i.imgur.com/JJwen49.png"
                     },
                     {
                         "ID":4,
