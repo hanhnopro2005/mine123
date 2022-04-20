@@ -989,11 +989,35 @@
                 "creature":[
                     {
                         "ID":0,
-                        "name":"Void Chelicerate",
+                        "name":"Purpur",
                         "category":"Legendary",
                         "size":6500,
                         "sell":1107080,
-                        "image": "https://i.imgur.com/VuLnzT8.png"
+                        "image": "https://i.imgur.com/nGhKnGM.png"
+                    },
+                    {
+                        "ID":1,
+                        "name":"Purpur Stairs",
+                        "category":"Uncommon",
+                        "size":32,
+                        "sell":220,
+                        "image": "https://i.imgur.com/0nhgUXl.jpg"
+                    },
+                    {
+                        "ID":2,
+                        "name":"End Stone Bricks",
+                        "category":"Uncommon",
+                        "size":32,
+                        "sell":220,
+                        "image": "https://i.imgur.com/L0DcaXT.png"
+                    },
+                    {
+                        "ID":3,
+                        "name":"Purpur Pillar",
+                        "category":"Uncommon",
+                        "size":32,
+                        "sell":220,
+                        "image": "https://i.imgur.com/BLs3nlz.png"
                     }
                 ]
             }
