@@ -318,11 +318,11 @@
                     },
                     {
                         "ID":3,
-                        "name":"Reginald",
+                        "name":"Than",
                         "category":"Common",
                         "size":30,
                         "sell":200,
-                        "image": "https://i.imgur.com/NCAzEvi.jpg"
+                        "image": "https://i.imgur.com/xXlpNve.png"
                     },
                     {
                         "ID":4,
@@ -364,27 +364,27 @@
                     },
                     {
                         "ID":3,
-                        "name":"Mesmer",
+                        "name":"Lớp Tuyết Dày",
                         "category":"Rare",
                         "size":67,
                         "sell":990,
-                        "image": "https://i.imgur.com/UUfnPCp.png"
+                        "image": "https://i.imgur.com/oTDC0Pm.png"
                     },
                     {
                         "ID":4,
-                        "name":"River Prowler",
+                        "name":"Đá Cuội",
                         "category":"Rare",
                         "size":1100,
                         "sell":4100,
-                        "image": "https://i.imgur.com/vyRypZv.jpg"
+                        "image": "https://i.imgur.com/EF8ufGh.png"
                     },
                     {
                         "ID":5,
-                        "name":"Spinefish",
+                        "name":"Đá",
                         "category":"Common",
                         "size":27,
                         "sell":200,
-                        "image": "https://i.imgur.com/inXivDO.jpg"
+                        "image": "https://i.imgur.com/XKv8I3a.png"
                     }
                 ]
             },
