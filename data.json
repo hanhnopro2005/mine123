@@ -56,19 +56,19 @@
                     },
                     {
                         "ID":6,
-                        "name":"Rabbit Ray",
+                        "name":"Đất Podzol",
                         "category":"Uncommon",
                         "size":40,
                         "sell":370,
-                        "image": "https://i.imgur.com/oWqnBXz.jpg"
+                        "image": "https://i.imgur.com/wnXtrIt.jpg"
                     },
                     {
                         "ID":7,
-                        "name":"Skyray",
+                        "name":"Cát",
                         "category":"Common",
                         "size":48,
                         "sell":300,
-                        "image": "https://i.imgur.com/uxjOIK9.png"
+                        "image": "https://i.imgur.com/M3053jJ.jpg"
                     },
                     {
                         "ID":8,
@@ -110,11 +110,11 @@
                     },
                     {
                         "ID":2,
-                        "name":"Reginald",
+                        "name":"Cát",
                         "category":"Common",
                         "size":30,
                         "sell":200,
-                        "image": "https://i.imgur.com/Knd4axq.png"
+                        "image": "https://i.imgur.com/M3053jJ.jpg"
                     },
                     {
                         "ID":3,
@@ -218,19 +218,19 @@
                     },
                     {
                         "ID":3,
-                        "name":"Spinefish",
+                        "name":"Than",
                         "category":"Common",
                         "size":29,
                         "sell":200,
-                        "image": "https://i.imgur.com/inXivDO.jpg"
+                        "image": "https://i.imgur.com/Nsp0Ujl.jpg"
                     },
                     {
                         "ID":4,
-                        "name":"Warper",
+                        "name":"Quặng Sắt",
                         "category":"Epic",
                         "size":170,
                         "sell":3480,
-                        "image": "https://i.imgur.com/XRsxfIV.png"
+                        "image": "https://i.imgur.com/FzmWr8X.png"
                     }
                 ]
             },
@@ -248,27 +248,43 @@
                     },
                     {
                         "ID":1,
-                        "name":"Boneshark",
+                        "name":"Cát",
                         "category":"Rare",
                         "size":8400,
                         "sell":3770,
-                        "image": "https://i.imgur.com/WcZE7hq.png"
+                        "image": "https://i.imgur.com/M3053jJ.jpg"
                     },
                     {
                         "ID":2,
-                        "name":"Reefback Leviathan",
+                        "name":"Xương Rồng",
                         "category":"Epic",
                         "size":6400,
                         "sell":30240,
-                        "image": "https://i.imgur.com/Knd4axq.png"
+                        "image": "https://i.imgur.com/I3YL87h.jpg"
                     },
                     {
                         "ID":3,
-                        "name":"Spadefish",
+                        "name":"Đá Cuội",
                         "category":"Common",
                         "size":30,
                         "sell":200,
-                        "image": "https://i.imgur.com/Xt3mcnE.jpg"
+                        "image": "https://i.imgur.com/TF2q5Zp.jpg"
+                    },
+                    {
+                        "ID":3,
+                        "name":"Đá",
+                        "category":"Common",
+                        "size":29,
+                        "sell":200,
+                        "image": "https://i.imgur.com/Nsp0Ujl.jpg"
+                    },
+                    {
+                        "ID":4,
+                        "name":"Than",
+                        "category":"Epic",
+                        "size":170,
+                        "sell":3480,
+                        "image": "https://i.imgur.com/xXlpNve.png"
                     }
                 ]
             },
@@ -294,7 +310,7 @@
                     },
                     {
                         "ID":2,
-                        "name":"Đá Vỡ",
+                        "name":"Đá Cuội",
                         "category":"Uncommon",
                         "size":190,
                         "sell":760,
@@ -320,7 +336,7 @@
             },
             {   
                 "ID": 6,
-                "name":"Núi Tuyết",
+                "name":"Biển Nam Cực",
                 "creature":[
                     {
                         "ID":0,
@@ -394,11 +410,11 @@
                     },
                     {
                         "ID":2,
-                        "name":"Boomerang",
+                        "name":"Cát",
                         "category":"Common",
                         "size":31,
                         "sell":200,
-                        "image": "https://i.imgur.com/dtBM9sP.png"
+                        "image": "https://i.imgur.com/M3053jJ.jpg"
                     },
                     {
                         "ID":3,
@@ -410,19 +426,19 @@
                     },
                     {
                         "ID":4,
-                        "name":"Holefish",
+                        "name":"Đá",
                         "category":"Common",
                         "size":30,
                         "sell":200,
-                        "image": "https://i.imgur.com/1dTrbf4.png"
+                        "image": "https://i.imgur.com/Nsp0Ujl.jpg"
                     },
                     {
                         "ID":5,
-                        "name":"Hoverfish",
+                        "name":"Đá Cuội",
                         "category":"Uncommon",
                         "size":38,
                         "sell":420,
-                        "image": "https://i.imgur.com/wQZRj9t.png"
+                        "image": "https://i.imgur.com/TF2q5Zp.jpg"
                     },
                     {
                         "ID":6,
@@ -528,27 +544,11 @@
                     },
                     {
                         "ID":4,
-                        "name":"Red Eyeye",
+                        "name":"Đá Nhiễm Rêu",
                         "category":"Common",
                         "size":36,
                         "sell":230,
-                        "image": "https://i.imgur.com/5CynMOd.png"
-                    },
-                    {
-                        "ID":5,
-                        "name":"Sea Dragon Leviathan",
-                        "category":"Legendary",
-                        "size":11000,
-                        "sell":1580000,
-                        "image": "https://i.imgur.com/iALri8R.png"
-                    },
-                    {
-                        "ID":6,
-                        "name":"Warper",
-                        "category":"Epic",
-                        "size":170,
-                        "sell":3480,
-                        "image": "https://i.imgur.com/XRsxfIV.png"
+                        "image": "https://i.imgur.com/mFcEPJU.jpg"
                     }
                 ]
             },
@@ -623,6 +623,22 @@
                         "size":120,
                         "sell":990,
                         "image": "https://i.imgur.com/2lk1JeN.png"
+                    },
+                    {
+                        "ID":3,
+                        "name":"Spinefish",
+                        "category":"Common",
+                        "size":29,
+                        "sell":200,
+                        "image": "https://i.imgur.com/inXivDO.jpg"
+                    },
+                    {
+                        "ID":4,
+                        "name":"Đá Phát Quang",
+                        "category":"Epic",
+                        "size":170,
+                        "sell":3480,
+                        "image": "https://i.imgur.com/hZ6cxrU.jpg"
                     }
                 ]
             },
@@ -747,6 +763,14 @@
                         "size":32,
                         "sell":220,
                         "image": "https://i.imgur.com/kF12cBQ.png"
+                    },
+                    {
+                        "ID":8,
+                        "name":"Đá Phát Quang",
+                        "category":"Epic",
+                        "size":170,
+                        "sell":3480,
+                        "image": "https://i.imgur.com/hZ6cxrU.jpg"
                     }
                 ]
             },
@@ -893,6 +917,14 @@
                         "size":6000,
                         "sell":1050700,
                         "image": "https://i.imgur.com/tjJgtol.png"
+                    },
+                    {
+                        "ID":5,
+                        "name":"Đá Phát Quang",
+                        "category":"Epic",
+                        "size":170,
+                        "sell":3480,
+                        "image": "https://i.imgur.com/hZ6cxrU.jpg"
                     }
                 ]
             },
@@ -979,6 +1011,14 @@
                         "size":32,
                         "sell":220,
                         "image": "https://i.imgur.com/gLYYk05.png"
+                    },
+                    {
+                        "ID":10,
+                        "name":"Đá Phát Quang",
+                        "category":"Epic",
+                        "size":170,
+                        "sell":3480,
+                        "image": "https://i.imgur.com/hZ6cxrU.jpg"
                     }
                 ]
             },
