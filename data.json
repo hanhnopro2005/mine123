@@ -539,7 +539,7 @@
             {   
                 "ID": 9,
                 "name":"Tọa Độ Vô Cực",
-                "rate": 5,
+                "rate": 80,
                 "creature":[
                     {
                         "ID":0,
@@ -1009,7 +1009,7 @@
             {   
                 "ID": 7,
                 "name":"End City",
-                "rate": 5,
+                "rate": 80,
                 "creature":[
                     {
                         "ID":0,
