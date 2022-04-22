@@ -1009,7 +1009,6 @@
             {   
                 "ID": 7,
                 "name":"End City",
-                "rate": 95,
                 "creature":[
                     {
                         "ID":0,
