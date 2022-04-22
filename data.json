@@ -271,7 +271,7 @@
                         "image": "https://i.imgur.com/TF2q5Zp.jpg"
                     },
                     {
-                        "ID":3,
+                        "ID":4,
                         "name":"Đá",
                         "category":"Epic",
                         "size":100,
@@ -279,7 +279,7 @@
                         "image": "https://i.imgur.com/Nsp0Ujl.jpg"
                     },
                     {
-                        "ID":4,
+                        "ID":5,
                         "name":"Than",
                         "category":"Epic",
                         "size":30,
@@ -997,7 +997,7 @@
                         "image": "https://i.imgur.com/gLYYk05.png"
                     },
                     {
-                        "ID":10,
+                        "ID":8,
                         "name":"Đá Phát Quang",
                         "category":"Epic",
                         "size":50,
