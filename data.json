@@ -529,111 +529,111 @@
         ]
     },
     {
-        "location":"Sector Zero",
+        "location":"Nether And The End",
         "area":[
-            {   
+            {  
                 "ID": 0,
-                "name":"Shallow Twisty Bridges – Twisty Bridges",
+                "name":"Pháo Đài Nether",
                 "creature":[
                     {
                         "ID":0,
-                        "name":"Arctic Peeper",
+                        "name":"Gạch Nether",
                         "category":"Common",
                         "size":34,
                         "sell":200,
-                        "image": "https://i.imgur.com/Qsx7khe.png"
+                        "image": "https://i.imgur.com/Pzu9xiT.png"
                     },
                     {
                         "ID":1,
-                        "name":"Bladderfish",
+                        "name":"Gạch Nether Thẫm",
                         "category":"Common",
                         "size":32,
                         "sell":200,
-                        "image": "https://i.imgur.com/W5IegiJ.png"
+                        "image": "https://i.imgur.com/hmpZFNN.png"
                     },
                     {
                         "ID":2,
-                        "name":"Boomerang",
+                        "name":"Quặng Hạt Vàng",
                         "category":"Common",
                         "size":31,
                         "sell":200,
-                        "image": "https://i.imgur.com/dtBM9sP.png"
+                        "image": "https://i.imgur.com/zehWGoZ.png"
                     },
                     {
                         "ID":3,
-                        "name":"Hoopfish",
-                        "category":"Common",
+                        "name":"Mảnh Vỡ Cổ Đại",
+                        "category":"Legendary",
                         "size":27,
-                        "sell":190,
-                        "image": "https://i.imgur.com/1I7IeiH.png"
+                        "sell":1900,
+                        "image": "https://i.imgur.com/JJwen49.png"
                     },
                     {
                         "ID":4,
-                        "name":"Arctic Ray",
+                        "name":"Nether Quartz Ore",
                         "category":"Uncommon",
                         "size":120,
                         "sell":990,
-                        "image": "https://i.imgur.com/fJwcFHQ.png"
+                        "image": "https://i.imgur.com/2lk1JeN.png"
                     }
                 ]
             },
             {   
                 "ID": 1,
-                "name":"Sparse Arctic  ",
+                "name":"Đầm Lầy Nether World",
                 "creature":[
                     {
                         "ID":0,
-                        "name":"Arctic Peeper",
+                        "name":"Quặng Hạt Vàng",
                         "category":"Common",
-                        "size":34,
+                        "size":31,
                         "sell":200,
-                        "image": "https://i.imgur.com/Qsx7khe.png"
+                        "image": "https://i.imgur.com/zehWGoZ.png"
                     },
                     {
                         "ID":1,
-                        "name":"Brinewing",
+                        "name":"Nether Quartz Ore",
                         "category":"Uncommon",
-                        "size":68,
-                        "sell":670,
-                        "image": "https://i.imgur.com/jsA3grS.png"
+                        "size":120,
+                        "sell":990,
+                        "image": "https://i.imgur.com/2lk1JeN.png"
                     },
                     {
                         "ID":2,
-                        "name":"Pengwing",
-                        "category":"Uncommon",
-                        "size":32,
-                        "sell":220,
-                        "image": "https://i.imgur.com/dH8XB25.png"
+                        "name":"Mảnh Vỡ Cổ Đại",
+                        "category":"Legendary",
+                        "size":27,
+                        "sell":1900,
+                        "image": "https://i.imgur.com/JJwen49.png"
                     },
                     {
                         "ID":3,
-                        "name":"Symbiote",
+                        "name":"Crying Obsidian",
                         "category":"Rare",
                         "size":21,
                         "sell":560,
-                        "image": "https://i.imgur.com/HyPRuuO.png"
+                        "image": "https://i.imgur.com/tjJgtol.png"
                     },
                     {
                         "ID":4,
-                        "name":"Titan Holefish",
+                        "name":"Obsidian",
                         "category":"Epic",
                         "size":450,
                         "sell":8690,
-                        "image": "https://i.imgur.com/2uJIRkL.png"
+                        "image": "https://i.imgur.com/pHRTy2l.png"
                     }
                 ]
             },
             {   
                 "ID": 2,
-                "name":"Arctic Kelp Forest",
+                "name":"Rừng Ác Mộng",
                 "creature":[
                     {
                         "ID":0,
-                        "name":"Arctic Peeper",
+                        "name":"Gỗ Linh Hồn",
                         "category":"Common",
                         "size":34,
                         "sell":200,
-                        "image": "https://i.imgur.com/Qsx7khe.png"
+                        "image": "https://i.imgur.com/kF12cBQ.png"
                     },
                     {
                         "ID":1,
