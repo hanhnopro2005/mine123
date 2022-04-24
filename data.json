@@ -460,69 +460,53 @@
             },
             {   
                 "ID": 8,
-                "name":"Inactive Lava Zone – Lava Lake",
+                "name":"Tàn Tích Cổ Đại",
                 "creature":[
                     {
                         "ID":0,
-                        "name":"Crimson Ray",
+                        "name":"Đá Nguyên khối",
                         "category":"Uncommon",
                         "size":300,
                         "sell":100,
-                        "image": "https://i.imgur.com/ii63Q5r.png"
+                        "image": "https://i.imgur.com/6FeUkfs.png"
                     },
                     {
                         "ID":1,
-                        "name":"Lava Larva",
+                        "name":"Xương Hóa Thạch",
                         "category":"Uncommon",
                         "size":24,
                         "sell":410,
-                        "image": "https://i.imgur.com/DEhFwIb.png"
+                        "image": "https://i.imgur.com/unnT9La.png"
                     },
                     {
                         "ID":2,
-                        "name":"Lava Lizard",
+                        "name":"Đá Thờ",
                         "category":"Rare",
                         "size":870,
                         "sell":3850,
-                        "image": "https://i.imgur.com/AblidWp.png"
+                        "image": "https://i.imgur.com/ySBbfqN.png"
                     },
                     {
                         "ID":3,
-                        "name":"Magmarang",
+                        "name":"Đất",
                         "category":"Common",
-                        "size":33,
-                        "sell":210,
-                        "image": "https://i.imgur.com/0bOcIwM.png"
+                        "size":31,
+                        "sell":200,
+                        "image": "https://i.imgur.com/8BZqPqS.jpg"
                     },
                     {
                         "ID":4,
-                        "name":"Red Eyeye",
+                        "name":"Đá Cuội",
                         "category":"Common",
-                        "size":36,
-                        "sell":230,
-                        "image": "https://i.imgur.com/5CynMOd.png"
-                    },
-                    {
-                        "ID":5,
-                        "name":"Sea Dragon Leviathan",
-                        "category":"Legendary",
-                        "size":11000,
-                        "sell":1580000,
-                        "image": "https://i.imgur.com/iALri8R.png"
-                    },
-                    {
-                        "ID":6,
-                        "name":"Warper",
-                        "category":"Epic",
-                        "size":170,
-                        "sell":3480,
-                        "image": "https://i.imgur.com/XRsxfIV.png"
+                        "size":30,
+                        "sell":200,
+                        "image": "https://i.imgur.com/TF2q5Zp.jpg"
                     }
                 ]
             },
-            {   
+            {
                 "ID": 9,
-                "name":"Crater Edge – The Void",
+                "name":"Tọa Độ Vô Cực",
                 "rate": 94,
                 "creature":[
                     {
