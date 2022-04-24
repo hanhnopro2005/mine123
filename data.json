@@ -738,53 +738,53 @@
                 "creature":[
                     {
                         "ID":0,
-                        "name":"Bladderfish",
+                        "name":"Quặng Hạt Vàng",
                         "category":"Common",
-                        "size":32,
+                        "size":31,
                         "sell":200,
-                        "image": "https://i.imgur.com/W5IegiJ.png"
+                        "image": "https://i.imgur.com/zehWGoZ.png"
                     },
                     {
                         "ID":1,
-                        "name":"Chelicerate",
-                        "category":"Legendary",
-                        "size":5500,
-                        "sell":876500,
-                        "image": "https://i.imgur.com/PaeEsyM.png"
+                        "name":"Nether Quartz Ore",
+                        "category":"Uncommon",
+                        "size":120,
+                        "sell":990,
+                        "image": "https://i.imgur.com/2lk1JeN.png"
                     },
                     {
                         "ID":2,
-                        "name":"Crashfish",
-                        "category":"Uncommon",
-                        "size":28,
-                        "sell":350,
-                        "image": "https://i.imgur.com/qrU1J3y.png"
+                        "name":"Mảnh Vỡ Cổ Đại",
+                        "category":"Legendary",
+                        "size":27,
+                        "sell":1900,
+                        "image": "https://i.imgur.com/JJwen49.png"
                     },
                     {
                         "ID":3,
-                        "name":"Cryptosuchus",
+                      "name":"Crying Obsidian",
                         "category":"Rare",
-                        "size":650,
-                        "sell":3440,
-                        "image": "https://i.imgur.com/LZQ1901.png"
+                        "size":21,
+                        "sell":560,
+                        "image": "https://i.imgur.com/tjJgtol.png"
                     },
                     {
                         "ID":4,
-                        "name":"Feather Fish",
-                        "category":"Uncommon",
-                        "size":32,
-                        "sell":410,
-                        "image": "https://i.imgur.com/hvfqv6n.png"
+                        "name":"Obsidian",
+                        "category":"Epic",
+                        "size":450,
+                        "sell":980,
+                        "image": "https://i.imgur.com/pHRTy2l.png"
                     }
                 ]
             },
             {   
                 "ID": 5,
-                "name":"Crystal Caves",
+                "name":"Pháo Đài Heo",
                 "creature":[
                     {
                         "ID":0,
-                        "name":"Bladderfish",
+                        "name":"Quặng hạt vàng",
                         "category":"Common",
                         "size":32,
                         "sell":200,
