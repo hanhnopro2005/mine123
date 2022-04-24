@@ -250,16 +250,16 @@
                         "ID":1,
                         "name":"Cát",
                         "category":"Common",
-                        "size":8400,
-                        "sell":3770,
+                        "size":400,
+                        "sell":100,
                         "image": "https://i.imgur.com/M3053jJ.jpg"
                     },
                     {
                         "ID":2,
                         "name":"Xương Rồng",
-                        "category":"Epic",
-                        "size":6400,
-                        "sell":30240,
+                        "category":"Uncommon",
+                        "size":40,
+                        "sell":240,
                         "image": "https://i.imgur.com/I3YL87h.jpg"
                     },
                     {
@@ -324,169 +324,137 @@
                 "creature":[
                     {
                         "ID":0,
-                        "name":"Bleeder",
+                        "name":"Snow Block",
                         "category":"Uncommon",
                         "size":19,
                         "sell":370,
-                        "image": "https://i.imgur.com/EVAjNvI.png"
+                        "image": "https://i.imgur.com/bHXBgAs.png"
                     },
                     {
                         "ID":1,
-                        "name":"Ghostray",
+                        "name":"Khối Băng Mỏng",
                         "category":"Uncommon",
                         "size":250,
                         "sell":990,
-                        "image": "https://i.imgur.com/UC5HJWw.png"
+                        "image": "https://i.imgur.com/UzsoFh6.png"
                     },
                     {
                         "ID":2,
-                        "name":"Ghost Leviathan Juvenile",
+                        "name":"Khối Băng Xanh",
                         "category":"Legendary",
                         "size":6700,
                         "sell":720500,
-                        "image": "https://i.imgur.com/R4SDc8k.jpg"
+                        "image": "https://i.imgur.com/Xd14qYH.png"
                     },
                     {
                         "ID":3,
-                        "name":"Mesmer",
+                        "name":"Lớp Tuyết Dày",
                         "category":"Rare",
                         "size":67,
                         "sell":990,
-                        "image": "https://i.imgur.com/UUfnPCp.png"
+                        "image": "https://i.imgur.com/oTDC0Pm.png"
                     },
                     {
                         "ID":4,
-                        "name":"River Prowler",
-                        "category":"Rare",
-                        "size":1100,
-                        "sell":4100,
-                        "image": "https://i.imgur.com/vyRypZv.jpg"
+                        "name":"Đá Cuội",
+                        "category":"Common",
+                        "size":30,
+                        "sell":200,
+                        "image": "https://i.imgur.com/TF2q5Zp.jpg"
                     },
                     {
                         "ID":5,
-                        "name":"Spinefish",
+                        "name":"Đá",
                         "category":"Common",
-                        "size":27,
+                        "size":31,
                         "sell":200,
-                        "image": "https://i.imgur.com/inXivDO.jpg"
+                        "image": "https://i.imgur.com/XKv8I3a.png"
                     }
                 ]
             },
             {   
                 "ID": 7,
-                "name":"Crash Zone",
+                "name":"Tàn Tích Biển Sâu",
                 "creature":[
                     {
                         "ID":0,
-                        "name":"Bladderfish",
+                        "name":"Đất Sét",
                         "category":"Common",
                         "size":32,
                         "sell":200,
-                        "image": "https://i.imgur.com/W5IegiJ.png"
+                        "image": "https://i.imgur.com/y2K6sBt.png"
                     },
                     {
                         "ID":1,
-                        "name":"Boneshark",
-                        "category":"Rare",
+                        "name":"Trầm tích",
+                        "category":"Common",
                         "size":8400,
-                        "sell":3770,
-                        "image": "https://i.imgur.com/WcZE7hq.png"
+                        "sell":70,
+                        "image": "https://i.imgur.com/c3cnoMY.jpg"
                     },
                     {
                         "ID":2,
-                        "name":"Boomerang",
+                        "name":"Cát",
                         "category":"Common",
-                        "size":31,
-                        "sell":200,
-                        "image": "https://i.imgur.com/dtBM9sP.png"
+                        "size":400,
+                        "sell":100,
+                        "image": "https://i.imgur.com/M3053jJ.jpg"
                     },
                     {
                         "ID":3,
-                        "name":"Eyeye",
+                        "name":"Đá Sỏi",
                         "category":"Common",
                         "size":28,
                         "sell":180,
-                        "image": "https://i.imgur.com/jdcU4nC.png"
+                        "image": "https://i.imgur.com/8rAzBAd.jpg"
                     },
                     {
                         "ID":4,
-                        "name":"Holefish",
-                        "category":"Common",
-                        "size":30,
-                        "sell":200,
-                        "image": "https://i.imgur.com/1dTrbf4.png"
-                    },
-                    {
-                        "ID":5,
-                        "name":"Hoverfish",
-                        "category":"Uncommon",
-                        "size":38,
-                        "sell":420,
-                        "image": "https://i.imgur.com/wQZRj9t.png"
-                    },
-                    {
-                        "ID":6,
-                        "name":"Peeper",
+                        "name":"Đá",
                         "category":"Common",
                         "size":31,
                         "sell":200,
-                        "image": "https://i.imgur.com/9tBkTdD.jpg"
+                        "image": "https://i.imgur.com/XKv8I3a.png"
                     },
                     {
-                        "ID":7,
-                        "name":"Rabbit Ray",
-                        "category":"Uncommon",
-                        "size":40,
-                        "sell":370,
-                        "image": "https://i.imgur.com/jjzQDkj.jpg"
-                    },
-                    {
-                        "ID":8,
-                        "name":"Reaper Leviathan",
-                        "category":"Legendary",
-                        "size":5500,
-                        "sell":679600,
-                        "image": "https://i.imgur.com/14sGSJ2.jpg"
-                    },
-                    {
-                        "ID":9,
-                        "name":"Reginald",
+                        "ID":5,
+                        "name":"Đá Cuội",
                         "category":"Common",
                         "size":30,
                         "sell":200,
-                        "image": "https://i.imgur.com/NCAzEvi.jpg"
+                        "image": "https://i.imgur.com/TF2q5Zp.jpg"
                     },
                     {
-                        "ID":10,
-                        "name":"Sand Shark",
-                        "category":"Rare",
-                        "size":500,
-                        "sell":2250,
-                        "image": "https://i.imgur.com/Ejo0kju.png"
-                    },
-                    {
-                        "ID":11,
-                        "name":"Shuttlebug",
-                        "category":"Uncommon",
-                        "size":27,
-                        "sell":410,
-                        "image": "https://i.imgur.com/Mly7Elf.jpg"
-                    },
-                    {
-                        "ID":12,
-                        "name":"Skyray",
+                        "ID":6,
+                        "name":"Khối Vàng",
                         "category":"Common",
-                        "size":48,
-                        "sell":300,
-                        "image": "https://i.imgur.com/uxjOIK9.jpg"
+                        "size":31,
+                        "sell":200,
+                        "image": "https://i.imgur.com/4wiIVkV.png"
                     },
                     {
-                        "ID":13,
-                        "name":"Stalker",
+                        "ID":7,
+                        "name":"Khối Kim Cương",
                         "category":"Uncommon",
-                        "size":1800,
-                        "sell":900,
-                        "image": "https://i.imgur.com/Gc8qMDh.png"
+                        "size":40,
+                        "sell":370,
+                        "image": "https://i.imgur.com/vGnhhHy.png"
+                    },
+                    {
+                        "ID":8,
+                        "name":"Light Up",
+                        "category":"Legendary",
+                        "size":5500,
+                        "sell":679600,
+                        "image": "https://i.imgur.com/g3yp6h7.png"
+                    },
+                    {
+                        "ID":9,
+                        "name":"Đá Nhiễm Rêu",
+                        "category":"Common",
+                        "size":30,
+                        "sell":200,
+                        "image": "https://i.imgur.com/mFcEPJU.jpg"
                     }
                 ]
             },
