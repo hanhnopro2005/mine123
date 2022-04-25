@@ -20,7 +20,7 @@
                         "category":"Common",
                         "size":31,
                         "sell":200,
-                        "image": "https://i.imgur.com/dDsB6mE.png"
+                        "image": "https://i.imgur.com/PwM03Lx.png"
                     },
                     {
                         "ID":2,
@@ -98,7 +98,7 @@
                         "category":"Common",
                         "size":31,
                         "sell":200,
-                        "image": "https://i.imgur.com/dDsB6mE.png"
+                        "image": "https://i.imgur.com/PwM03Lx.png"
                     },
                     {
                         "ID":1,
@@ -198,7 +198,7 @@
                         "category":"Common",
                         "size":1100,
                         "sell":4050,
-                        "image": "https://i.imgur.com/dDsB6mE.png"
+                        "image": "https://i.imgur.com/PwM03Lx.png"
                     },
                     {
                         "ID":1,
@@ -492,7 +492,7 @@
                         "category":"Common",
                         "size":31,
                         "sell":200,
-                        "image": "https://i.imgur.com/dDsB6mE.png"
+                        "image": "https://i.imgur.com/PwM03Lx.png"
                     },
                     {
                         "ID":4,
@@ -514,7 +514,7 @@
                         "category":"Common",
                         "size":31,
                         "sell":200,
-                        "image": "https://i.imgur.com/dDsB6mE.png"
+                        "image": "https://i.imgur.com/PwM03Lx.png"
                     },
                     {
                         "ID":1,
@@ -762,7 +762,7 @@
                     },
                     {
                         "ID":3,
-                      "name":"Crying Obsidian",
+                        "name":"Crying Obsidian",
                         "category":"Rare",
                         "size":21,
                         "sell":560,
@@ -784,160 +784,159 @@
                 "creature":[
                     {
                         "ID":0,
-                        "name":"Quặng hạt vàng",
+                        "name":"Quặng Hạt Vàng",
                         "category":"Common",
-                        "size":32,
+                        "size":31,
                         "sell":200,
-                        "image": "https://i.imgur.com/W5IegiJ.png"
+                        "image": "https://i.imgur.com/zehWGoZ.png"
                     },
                     {
                         "ID":1,
-                        "name":"Red Feather Fish",
+                        "name":"Nether Quartz Ore",
                         "category":"Uncommon",
-                        "size":35,
-                        "sell":440,
-                        "image": "https://i.imgur.com/6eugLip.png"
+                        "size":120,
+                        "sell":990,
+                        "image": "https://i.imgur.com/2lk1JeN.png"
                     },
                     {
                         "ID":2,
-                        "name":"Rockgrub",
-                        "category":"Epic",
-                        "size":24,
-                        "sell":1180,
-                        "image": "https://i.imgur.com/xbdLdm4.jpg"
+                        "name":"Mảnh Vỡ Cổ Đại",
+                        "category":"Legendary",
+                        "size":27,
+                        "sell":1900,
+                        "image": "https://i.imgur.com/JJwen49.png"
                     },
                     {
                         "ID":3,
-                        "name":"Rock Puncher",
+                        "name":"Crying Obsidian",
                         "category":"Rare",
-                        "size":2,
-                        "sell":1890,
-                        "image": "https://i.imgur.com/5f8kjk5.png"
+                        "size":21,
+                        "sell":560,
+                        "image": "https://i.imgur.com/tjJgtol.png"
                     },
                     {
                         "ID":4,
-                        "name":"Shadow Leviathan",
-                        "category":"Legendary",
-                        "size":6000,
-                        "sell":1050700,
-                        "image": "https://i.imgur.com/dinzzWr.png"
+                        "name":"Obsidian",
+                        "category":"Epic",
+                        "size":450,
+                        "sell":980,
+                        "image": "https://i.imgur.com/pHRTy2l.png"
                     },
                     {
                         "ID":5,
-                        "name":"Triops",
+                        "name":"Đá Phát Quang",
                         "category":"Common",
                         "size":30,
                         "sell":200,
-                        "image": "https://i.imgur.com/5oDIu17.png"
+                        "image": "https://i.imgur.com/hZ6cxrU.jpg"
                     }
                 ]
             },
             {   
                 "ID": 6,
-                "name":"Arctic",
+                "name":"Rừng máu",
                 "creature":[
                     {
                         "ID":0,
-                        "name":"Arctic Peeper",
+                        "name":"Gỗ Thẫm",
                         "category":"Common",
                         "size":34,
                         "sell":200,
-                        "image": "https://i.imgur.com/Qsx7khe.png"
+                        "image": ""
                     },
                     {
-                        "ID":1,
-                        "name":"Arctic Ray",
-                        "category":"Uncommon",
-                        "size":120,
-                        "sell":990,
-                        "image": "https://i.imgur.com/fJwcFHQ.png"
-                    },
-                    {
-                        "ID":2,
-                        "name":"Bladderfish",
-                        "category":"Common",
-                        "size":32,
-                        "sell":200,
-                        "image": "https://i.imgur.com/W5IegiJ.png"
-                    },
-                    {
-                        "ID":3,
-                        "name":"Boomerang",
+                        "ID":1, thay r nha
+                        "name":"Quặng Hạt Vàng",
                         "category":"Common",
                         "size":31,
                         "sell":200,
-                        "image": "https://i.imgur.com/dtBM9sP.png"
+                        "image": "https://i.imgur.com/zehWGoZ.png"
                     },
                     {
-                        "ID":4,
-                        "name":"Chelicerate",
-                        "category":"Legendary",
-                        "size":5500,
-                        "sell":876500,
-                        "image": "https://i.imgur.com/PaeEsyM.png"
-                    },
-                    {
-                        "ID":5,
-                        "name":"Glow Whale",
-                        "category":"Epic",
-                        "size":30,
-                        "sell":15120,
-                        "image": "https://i.imgur.com/DkQGFvG.png"
-                    },
-                    {
-                        "ID":6,
-                        "name":"Pengling",
+                        "ID":2, thay r nha
+                        "name":"Nether Quartz Ore",
                         "category":"Uncommon",
-                        "size":63,
-                        "sell":650,
-                        "image": "https://i.imgur.com/Qy0kJT5.png"
+                        "size":120,
+                        "sell":990,
+                        "image": "https://i.imgur.com/2lk1JeN.png"
                     },
                     {
-                        "ID":7,
-                        "name":"Pengwing",
+                        "ID":3, thay r nha
+                        "name":"Nether Quartz Ore",
                         "category":"Uncommon",
-                        "size":32,
-                        "sell":220,
-                        "image": "https://i.imgur.com/dH8XB25.png"
+                        "size":120,
+                        "sell":990,
+                        "image": "https://i.imgur.com/2lk1JeN.png"
                     },
                     {
-                        "ID":8,
-                        "name":"Pinnacarid",
-                        "category":"Uncommon",
-                        "size":54,
-                        "sell":480,
-                        "image": "https://i.imgur.com/pbOeb3U.png"
+                        "ID":4, thay r nha
+                        "name":"Crying Obsidian",
+                        "category":"Rare",
+                        "size":21,
+                        "sell":560,
+                        "image": "https://i.imgur.com/tjJgtol.png"
                     },
                     {
-                        "ID":9,
-                        "name":"Rockgrub",
-                        "category":"Epic",
-                        "size":24,
-                        "sell":1180,
-                        "image": "https://i.imgur.com/xbdLdm4.jpg"
-                    },
-                    {
-                        "ID":10,
-                        "name":"Titan Holefish",
+                        "ID":5, thay r nha
+                        "name":"Obsidian",
                         "category":"Epic",
                         "size":450,
-                        "sell":8690,
-                        "image": "https://i.imgur.com/2uJIRkL.png"
+                        "sell":980,
+                        "image": "https://i.imgur.com/pHRTy2l.png"
+                    },
+                    {
+                        "ID":6, thay r nha
+                        "name":"Cát Linh Hồn",
+                        "category":"Uncommon",
+                        "size":32,
+                        "sell":410,
+                        "image": "https://i.imgur.com/kF12cBQ.png"
+                    },
+                    {  
+                        "ID":7, thay r nha
+                        "name":"Đất Nether",
+                        "category":"Common",
+                        "size":27,
+                        "sell":190,
+                        "image": "https://i.imgur.com/gLYYk05.png"
+                    },
+                    {
+                        "ID":8, thay r nha
+                        "name":"Đá Phát Quang",
+                        "category":"Common",
+                        "size":30,
+                        "sell":200,
+                        "image": "https://i.imgur.com/hZ6cxrU.jpg"
                     }
                 ]
             },
             {   
                 "ID": 7,
                 "name":"World Edge – The Void",
-                "rate": 95,
                 "creature":[
                     {
                         "ID":0,
-                        "name":"Void Chelicerate",
-                        "category":"Legendary",
-                        "size":6500,
-                        "sell":1107080,
+                        "name":"Chorus Fruit",
+                        "category":"Mythical",
+                        "size":50,
+                        "sell":1000,
                         "image": "https://i.imgur.com/VuLnzT8.png"
+                    },
+                    {
+                        "ID":1,
+                        "name":"Chorus Flower",
+                        "category":"Legendary",
+                        "size":500,
+                        "sell":1100,
+                        "image": "https://i.imgur.com/2MKF1aE.png"
+                    },
+                    {
+                        "ID":2,
+                        "name":"Chorus Plants",
+                        "category":"Legendary",
+                        "size":5000,
+                        "sell":1107080,
+                        "image": "https://i.imgur.com/8o1Hfzf.png"
                     }
                 ]
             }
