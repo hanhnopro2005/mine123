@@ -845,7 +845,7 @@
                         "image": ""
                     },
                     {
-                        "ID":1, thay r nha
+                        "ID":1,
                         "name":"Quặng Hạt Vàng",
                         "category":"Common",
                         "size":31,
@@ -853,7 +853,7 @@
                         "image": "https://i.imgur.com/zehWGoZ.png"
                     },
                     {
-                        "ID":2, thay r nha
+                        "ID":2,
                         "name":"Nether Quartz Ore",
                         "category":"Uncommon",
                         "size":120,
@@ -861,7 +861,7 @@
                         "image": "https://i.imgur.com/2lk1JeN.png"
                     },
                     {
-                        "ID":3, thay r nha
+                        "ID":3, 
                         "name":"Nether Quartz Ore",
                         "category":"Uncommon",
                         "size":120,
@@ -869,7 +869,7 @@
                         "image": "https://i.imgur.com/2lk1JeN.png"
                     },
                     {
-                        "ID":4, thay r nha
+                        "ID":4, 
                         "name":"Crying Obsidian",
                         "category":"Rare",
                         "size":21,
@@ -877,7 +877,7 @@
                         "image": "https://i.imgur.com/tjJgtol.png"
                     },
                     {
-                        "ID":5, thay r nha
+                        "ID":5, 
                         "name":"Obsidian",
                         "category":"Epic",
                         "size":450,
@@ -885,7 +885,7 @@
                         "image": "https://i.imgur.com/pHRTy2l.png"
                     },
                     {
-                        "ID":6, thay r nha
+                        "ID":6, 
                         "name":"Cát Linh Hồn",
                         "category":"Uncommon",
                         "size":32,
@@ -893,7 +893,7 @@
                         "image": "https://i.imgur.com/kF12cBQ.png"
                     },
                     {  
-                        "ID":7, thay r nha
+                        "ID":7, 
                         "name":"Đất Nether",
                         "category":"Common",
                         "size":27,
@@ -901,7 +901,7 @@
                         "image": "https://i.imgur.com/gLYYk05.png"
                     },
                     {
-                        "ID":8, thay r nha
+                        "ID":8, 
                         "name":"Đá Phát Quang",
                         "category":"Common",
                         "size":30,
