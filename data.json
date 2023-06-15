@@ -583,43 +583,43 @@
                 "creature":[
                     {
                         "ID":0,
-                        "name":"Quặng Hạt Vàng",
-                        "category":"Common",
-                        "size":31,
-                        "sell":200,
-                        "image": "https://i.imgur.com/zehWGoZ.png"
+                        "name":"Rusted Kushala Daora",
+                        "category":"Uncommon",
+                        "size":410,
+                        "sell":4560,
+                        "image": "https://i.imgur.com/vgKCJAq.png"
                     },
                     {
                         "ID":1,
-                        "name":"Nether Quartz Ore",
-                        "category":"Uncommon",
-                        "size":120,
-                        "sell":990,
-                        "image": "https://i.imgur.com/2lk1JeN.png"
+                        "name":"Kushala Daora",
+                        "category":"Rare",
+                        "size":540,
+                        "sell":6500,
+                        "image": "https://i.imgur.com/z7qgRsa.png"
                     },
                     {
                         "ID":2,
-                        "name":"Mảnh Vỡ Cổ Đại",
-                        "category":"Legendary",
-                        "size":27,
-                        "sell":1900,
-                        "image": "https://i.imgur.com/JJwen49.png"
+                        "name":"Chameleos",
+                        "category":"Uncommon",
+                        "size":360,
+                        "sell":5600,
+                        "image": "https://i.imgur.com/jf7jWPj.png"
                     },
                     {
                         "ID":3,
-                        "name":"Crying Obsidian",
-                        "category":"Rare",
-                        "size":21,
-                        "sell":560,
-                        "image": "https://i.imgur.com/tjJgtol.png"
+                        "name":"Ashen Lao-Shan Lung",
+                        "category":"Common",
+                        "size":480,
+                        "sell":5500,
+                        "image": "https://i.imgur.com/k0NX7hF.png"
                     },
                     {
                         "ID":4,
-                        "name":"Obsidian",
-                        "category":"Epic",
-                        "size":450,
-                        "sell":980,
-                        "image": "https://i.imgur.com/pHRTy2l.png"
+                        "name":"Lao-Shan Lung",
+                        "category":"Legendary",
+                        "size":820,
+                        "sell":35050,
+                        "image": "https://i.imgur.com/gT0iYbt.png"
                     }
                 ]
             },
@@ -629,27 +629,27 @@
                 "creature":[
                     {
                         "ID":0,
-                        "name":"Gỗ Linh Hồn",
-                        "category":"Common",
-                        "size":34,
-                        "sell":200,
-                        "image": "https://i.imgur.com/LY4UIG8.png"
+                        "name":"Kirin",
+                        "category":"Epic",
+                        "size":564,
+                        "sell":6800,
+                        "image": "https://i.imgur.com/uxQVpOA.png"
                     },
                     {
                         "ID":1,
-                        "name":"Quặng Hạt Vàng",
-                        "category":"Common",
-                        "size":31,
-                        "sell":200,
-                        "image": "https://i.imgur.com/zehWGoZ.png"
+                        "name":"Crimson Fatalis",
+                        "category":"Rare",
+                        "size":511,
+                        "sell":7100,
+                        "image": "https://i.imgur.com/OgfAxZi.png"
                     },
                     {
                         "ID":2,
-                        "name":"Mảnh Vỡ Cổ Đại",
+                        "name":"Fatalis",
                         "category":"Legendary",
-                        "size":27,
-                        "sell":1900,
-                        "image": "https://i.imgur.com/JJwen49.png"
+                        "size":917,
+                        "sell":45600,
+                        "image": "https://i.imgur.com/22JtGbw.png"
                     },
                     {
                         "ID":3,
