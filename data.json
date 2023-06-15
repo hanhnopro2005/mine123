@@ -653,27 +653,27 @@
                     },
                     {
                         "ID":3,
-                        "name":"Nether Quartz Ore",
+                        "name":"Great Apypos",
                         "category":"Uncommon",
-                        "size":120,
-                        "sell":990,
-                        "image": "https://i.imgur.com/2lk1JeN.png"
+                        "size":270,
+                        "sell":3500,
+                        "image": "https://i.imgur.com/i6CA0eo.png"
                     },
                     {
                         "ID":4,
-                        "name":"Crying Obsidian",
+                        "name":"Apypos",
                         "category":"Rare",
-                        "size":21,
-                        "sell":560,
-                        "image": "https://i.imgur.com/tjJgtol.png"
+                        "size":311,
+                        "sell":5500,
+                        "image": "https://i.imgur.com/ifPnEy7.png"
                     },
                     {
                         "ID":5,
-                        "name":"Obsidian",
-                        "category":"Epic",
-                        "size":450,
-                        "sell":980,
-                        "image": "https://i.imgur.com/pHRTy2l.png"
+                        "name":"One-Eared Yian Garuga",
+                        "category":"Common",
+                        "size":350,
+                        "sell":4100,
+                        "image": "https://i.imgur.com/u3AQjQv.png"
                     }
                 ]
             },
@@ -683,52 +683,44 @@
                 "creature":[
                     {
                         "ID":0,
-                        "name":"Nether Quartz Ore",
+                        "name":"Gold Hypnocatrice",
                         "category":"Uncommon",
-                        "size":120,
-                        "sell":990,
-                        "image": "https://i.imgur.com/2lk1JeN.png"
+                        "size":250,
+                        "sell":4500,
+                        "image": "https://i.imgur.com/WBB440d.png"
                     },
                     {
                         "ID":1,
-                        "name":"Mảnh Vỡ Cổ Đại",
-                        "category":"Legendary",
-                        "size":27,
-                        "sell":1900,
-                        "image": "https://i.imgur.com/JJwen49.png"
+                        "name":"Tzitzi-Ya-Ku",
+                        "category":"Common",
+                        "size":270,
+                        "sell":3500,
+                        "image": "https://i.imgur.com/L2fnngw.png"
 
                     },
                     {
                         "ID":2,
-                        "name":"Crying Obsidian",
-                        "category":"Rare",
-                        "size":21,
-                        "sell":560,
-                        "image": "https://i.imgur.com/tjJgtol.png"
+                        "name":"Kulu-Ya-Ku",
+                        "category":"Uncommon",
+                        "size":270,
+                        "sell":4100,
+                        "image": "https://i.imgur.com/VPHF6Jm.png"
                     },
                     {
                         "ID":3,
-                        "name":"Obsidian",
-                        "category":"Epic",
-                        "size":450,
-                        "sell":980,
-                        "image": "https://i.imgur.com/pHRTy2l.png"
+                        "name":"Boggi",
+                        "category":"Rare",
+                        "size":400,
+                        "sell":5600,
+                        "image": "https://i.imgur.com/MnxyBTd.png"
                     },
                     {
                         "ID":4,
-                        "name":"Cát Linh Hồn",
-                        "category":"Uncommon",
-                        "size":32,
-                        "sell":410,
-                        "image": "https://i.imgur.com/kF12cBQ.png"
-                    },
-                    {  
-                        "ID":5,
-                        "name":"Đất Nether",
-                        "category":"Common",
-                        "size":27,
-                        "sell":190,
-                        "image": "https://i.imgur.com/gLYYk05.png"
+                        "name":"Yian Garuga",
+                        "category":"Legendary",
+                        "size":9100,
+                        "sell":54500,
+                        "image": "https://i.imgur.com/pbDgLf0.png"
                     }
                 ]
             },
@@ -738,27 +730,27 @@
                 "creature":[
                     {
                         "ID":0,
-                        "name":"Quặng Hạt Vàng",
+                        "name":"Great Baggi",
                         "category":"Common",
-                        "size":31,
-                        "sell":200,
-                        "image": "https://i.imgur.com/zehWGoZ.png"
+                        "size":351,
+                        "sell":4300,
+                        "image": "https://i.imgur.com/LBcfWlc.png"
                     },
                     {
                         "ID":1,
-                        "name":"Nether Quartz Ore",
+                        "name":"Iodrome",
                         "category":"Uncommon",
-                        "size":120,
-                        "sell":990,
-                        "image": "https://i.imgur.com/2lk1JeN.png"
+                        "size":310,
+                        "sell":4500,
+                        "image": "https://i.imgur.com/lTETEc0.png"
                     },
                     {
                         "ID":2,
-                        "name":"Mảnh Vỡ Cổ Đại",
-                        "category":"Legendary",
-                        "size":27,
-                        "sell":1900,
-                        "image": "https://i.imgur.com/JJwen49.png"
+                        "name":"Scarred Yian Garuga",
+                        "category":"Rare",
+                        "size":360,
+                        "sell":5200,
+                        "image": "https://i.imgur.com/Z65F4DV.png"
                     },
                     {
                         "ID":3,
