@@ -240,35 +240,35 @@
                 "creature":[
                     {
                         "ID":0,
-                        "name":"Cát Cứng",
+                        "name":"Disufiroa",
                         "category":"Uncommon",
-                        "size":11,
-                        "sell":4050,
-                        "image": "https://i.imgur.com/nDxQlez.jpg"
+                        "size":551,
+                        "sell":5230,
+                        "image": "https://i.imgur.com/2BsMNDO.png"
                     },
                     {
                         "ID":1,
-                        "name":"Cát",
+                        "name":"Zorah Magdaros",
                         "category":"Common",
-                        "size":400,
-                        "sell":100,
-                        "image": "https://i.imgur.com/M3053jJ.jpg"
+                        "size":330,
+                        "sell":4505,
+                        "image": "https://i.imgur.com/L7Ee63I.png"
                     },
                     {
                         "ID":2,
-                        "name":"Xương Rồng",
-                        "category":"Uncommon",
-                        "size":40,
-                        "sell":240,
-                        "image": "https://i.imgur.com/I3YL87h.jpg"
+                        "name":"Safi'jiiva",
+                        "category":"Rare",
+                        "size":460,
+                        "sell":5670,
+                        "image": "https://i.imgur.com/Oyj2WIs.png"
                     },
                     {
                         "ID":3,
-                        "name":"Đá Cuội",
-                        "category":"Common",
-                        "size":30,
-                        "sell":200,
-                        "image": "https://i.imgur.com/TF2q5Zp.jpg"
+                        "name":"Xeno'jiiva",
+                        "category":"Legendary",
+                        "size":750,
+                        "sell":14500,
+                        "image": "https://i.imgur.com/zWi0kml.png"
                     }
                 ]
             },
@@ -278,43 +278,43 @@
                 "creature":[
                     {
                         "ID":0,
-                        "name":"Đất Nhiễm Nấm",
+                        "name":"Wind Serpent Ibushi",
                         "category":"Common",
-                        "size":31,
-                        "sell":200,
-                        "image": "https://i.imgur.com/dtBM9sP.png"
+                        "size":250,
+                        "sell":3400,
+                        "image": "https://i.imgur.com/W5d8Z6m.png"
                     },
                     {
                         "ID":1,
-                        "name":"Đá",
-                        "category":"Common",
-                        "size":31,
-                        "sell":200,
-                        "image": "https://i.imgur.com/XKv8I3a.png"
+                        "name":"Velkhana",
+                        "category":"Rare",
+                        "size":440,
+                        "sell":6700,
+                        "image": "https://i.imgur.com/NhNFmPe.png"
                     },
                     {
                         "ID":2,
-                        "name":"Đá Cuội",
-                        "category":"Uncommon",
-                        "size":190,
-                        "sell":760,
-                        "image": "https://i.imgur.com/EF8ufGh.png"
+                        "name":"Blackveil Vaal Hazak",
+                        "category":"Legendary",
+                        "size":850,
+                        "sell":15400,
+                        "image": "https://i.imgur.com/rNx2EIP.png"
                     },
                     {
                         "ID":3,
-                        "name":"Than",
+                        "name":"Vaal Hazak",
                         "category":"Common",
-                        "size":29,
-                        "sell":200,
-                        "image": "https://i.imgur.com/xXlpNve.png"
+                        "size":290,
+                        "sell":3890,
+                        "image": "https://i.imgur.com/5x3yxlT.png"
                     },
                     {
                         "ID":4,
-                        "name":"Thân Nấm Giant",
-                        "category":"Epic",
-                        "size":170,
-                        "sell":3480,
-                        "image": "https://i.imgur.com/8UzxUUu.png"
+                        "name":"Narwa the Allmother",
+                        "category":"Uncommon",
+                        "size":450,
+                        "sell":7500,
+                        "image": "https://i.imgur.com/mBJFEQK.png"
                     }
                 ]
             },
