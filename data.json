@@ -754,19 +754,19 @@
                     },
                     {
                         "ID":3,
-                        "name":"Crying Obsidian",
-                        "category":"Rare",
-                        "size":21,
-                        "sell":560,
-                        "image": "https://i.imgur.com/tjJgtol.png"
+                        "name":"Giaprey",
+                        "category":"Common",
+                        "size":280,
+                        "sell":3400,
+                        "image": "https://i.imgur.com/ThxDNuJ.png"
                     },
                     {
                         "ID":4,
-                        "name":"Obsidian",
-                        "category":"Epic",
-                        "size":450,
-                        "sell":980,
-                        "image": "https://i.imgur.com/pHRTy2l.png"
+                        "name":"Yian Kut-Ku",
+                        "category":"Common",
+                        "size":260,
+                        "sell":2580,
+                        "image": "https://i.imgur.com/3I3oya6.png"
                     }
                 ]
             },
@@ -776,51 +776,43 @@
                 "creature":[
                     {
                         "ID":0,
-                        "name":"Quặng Hạt Vàng",
-                        "category":"Common",
-                        "size":31,
-                        "sell":200,
-                        "image": "https://i.imgur.com/zehWGoZ.png"
+                        "name":"Thunderbubble Mizutsune",
+                        "category":"Legendary",
+                        "size":10500,
+                        "sell":49570,
+                        "image": "https://i.imgur.com/w9fXTpo.png"
                     },
                     {
                         "ID":1,
-                        "name":"Nether Quartz Ore",
+                        "name":"Landconquest Lagiacrus",
                         "category":"Uncommon",
-                        "size":120,
-                        "sell":990,
-                        "image": "https://i.imgur.com/2lk1JeN.png"
+                        "size":340,
+                        "sell":5400,
+                        "image": "https://i.imgur.com/VSjrl3D.jpg"
                     },
                     {
                         "ID":2,
-                        "name":"Mảnh Vỡ Cổ Đại",
-                        "category":"Legendary",
-                        "size":27,
-                        "sell":1900,
-                        "image": "https://i.imgur.com/JJwen49.png"
+                        "name":"Pokaradon",
+                        "category":"Rare",
+                        "size":277,
+                        "sell":5530,
+                        "image": "https://i.imgur.com/C7tu8Q6.png"
                     },
                     {
                         "ID":3,
-                        "name":"Crying Obsidian",
-                        "category":"Rare",
-                        "size":21,
-                        "sell":560,
-                        "image": "https://i.imgur.com/tjJgtol.png"
+                        "name":"Kuarusepusu",
+                        "category":"Uncommon",
+                        "size":340,
+                        "sell":5600,
+                        "image": "https://i.imgur.com/0OPtw9i.png"
                     },
                     {
                         "ID":4,
-                        "name":"Obsidian",
+                        "name":"Zenith Barlagual",
                         "category":"Epic",
                         "size":450,
-                        "sell":980,
-                        "image": "https://i.imgur.com/pHRTy2l.png"
-                    },
-                    {
-                        "ID":5,
-                        "name":"Đá Phát Quang",
-                        "category":"Common",
-                        "size":30,
-                        "sell":200,
-                        "image": "https://i.imgur.com/hZ6cxrU.jpg"
+                        "sell":7500,
+                        "image": "https://i.imgur.com/9Sg3AR1.png"
                     }
                 ]
             },
@@ -830,75 +822,35 @@
                 "creature":[
                     {
                         "ID":0,
-                        "name":"Gỗ Thẫm",
+                        "name":"Barlagual",
                         "category":"Common",
-                        "size":34,
-                        "sell":200,
-                        "image": ""
+                        "size":340,
+                        "sell":4300,
+                        "image": "https://i.imgur.com/Gwb3dyF.png"
                     },
                     {
                         "ID":1,
-                        "name":"Quặng Hạt Vàng",
-                        "category":"Common",
-                        "size":31,
-                        "sell":200,
-                        "image": "https://i.imgur.com/zehWGoZ.png"
+                        "name":"Royal Ludroth",
+                        "category":"Uncommon",
+                        "size":410,
+                        "sell":5200,
+                        "image": "https://i.imgur.com/PcS9LdZ.png"
                     },
                     {
                         "ID":2,
-                        "name":"Nether Quartz Ore",
-                        "category":"Uncommon",
-                        "size":120,
-                        "sell":990,
-                        "image": "https://i.imgur.com/2lk1JeN.png"
+                        "name":"Abyssal Lagiacrus",
+                        "category":"Legendary",
+                        "size":790,
+                        "sell":56000,
+                        "image": "https://i.imgur.com/dw8XEoL.png"
                     },
                     {
                         "ID":3, 
-                        "name":"Nether Quartz Ore",
-                        "category":"Uncommon",
-                        "size":120,
-                        "sell":990,
-                        "image": "https://i.imgur.com/2lk1JeN.png"
-                    },
-                    {
-                        "ID":4, 
-                        "name":"Crying Obsidian",
-                        "category":"Rare",
-                        "size":21,
-                        "sell":560,
-                        "image": "https://i.imgur.com/tjJgtol.png"
-                    },
-                    {
-                        "ID":5, 
-                        "name":"Obsidian",
+                        "name":"Ivory Lagiacrus",
                         "category":"Epic",
-                        "size":450,
-                        "sell":980,
-                        "image": "https://i.imgur.com/pHRTy2l.png"
-                    },
-                    {
-                        "ID":6, 
-                        "name":"Cát Linh Hồn",
-                        "category":"Uncommon",
-                        "size":32,
-                        "sell":410,
-                        "image": "https://i.imgur.com/kF12cBQ.png"
-                    },
-                    {  
-                        "ID":7, 
-                        "name":"Đất Nether",
-                        "category":"Common",
-                        "size":27,
-                        "sell":190,
-                        "image": "https://i.imgur.com/gLYYk05.png"
-                    },
-                    {
-                        "ID":8, 
-                        "name":"Đá Phát Quang",
-                        "category":"Common",
-                        "size":30,
-                        "sell":200,
-                        "image": "https://i.imgur.com/hZ6cxrU.jpg"
+                        "size":660,
+                        "sell":8500,
+                        "image": "https://i.imgur.com/w16Qbrg.png"
                     }
                 ]
             },
@@ -908,27 +860,27 @@
                 "creature":[
                     {
                         "ID":0,
-                        "name":"Chorus Fruit",
+                        "name":"Lagiacrus",
                         "category":"Mythical",
-                        "size":50,
-                        "sell":1000,
-                        "image": "https://i.imgur.com/VuLnzT8.png"
+                        "size":1200,
+                        "sell":1500000,
+                        "image": "https://i.imgur.com/UgQ1gyU.png"
                     },
                     {
                         "ID":1,
-                        "name":"Chorus Flower",
+                        "name":"Agnaktor",
                         "category":"Legendary",
-                        "size":500,
-                        "sell":1100,
-                        "image": "https://i.imgur.com/2MKF1aE.png"
+                        "size":650,
+                        "sell":34560,
+                        "image": "https://i.imgur.com/065bf5c.png"
                     },
                     {
                         "ID":2,
-                        "name":"Chorus Plants",
+                        "name":"Gobul",
                         "category":"Legendary",
-                        "size":5000,
-                        "sell":1107080,
-                        "image": "https://i.imgur.com/8o1Hfzf.png"
+                        "size":700,
+                        "sell":67890,
+                        "image": "https://i.imgur.com/aIOVroy.png"
                     }
                 ]
             }
