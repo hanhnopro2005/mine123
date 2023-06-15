@@ -510,19 +510,19 @@
                 "creature":[
                     {
                         "ID":0,
-                        "name":"Đất",
-                        "category":"Common",
-                        "size":31,
-                        "sell":200,
-                        "image": "https://i.imgur.com/PwM03Lx.png"
+                        "name":"Shah Dalamadur",
+                        "category":"Epic",
+                        "size":511,
+                        "sell":6600,
+                        "image": "https://i.imgur.com/Nijjids.png"
                     },
                     {
                         "ID":1,
-                        "name":"Đá",
-                        "category":"Common",
-                        "size":31,
-                        "sell":200,
-                        "image": "https://i.imgur.com/XKv8I3a.png"
+                        "name":"Dalamadur",
+                        "category":"Rare",
+                        "size":401,
+                        "sell":5200,
+                        "image": "https://i.imgur.com/7RmN5wb.png"
                     }
                 ]
             }
@@ -537,43 +537,43 @@
                 "creature":[
                     {
                         "ID":0,
-                        "name":"Gạch Nether",
+                        "name":"Dah'ren Mohran",
                         "category":"Common",
-                        "size":34,
-                        "sell":200,
-                        "image": "https://i.imgur.com/Pzu9xiT.png"
+                        "size":240,
+                        "sell":4100,
+                        "image": "https://i.imgur.com/JkWF2oz.png"
                     },
                     {
                         "ID":1,
-                        "name":"Gạch Nether Thẫm",
-                        "category":"Common",
-                        "size":32,
-                        "sell":200,
-                        "image": "https://i.imgur.com/hmpZFNN.png"
+                        "name":"Yama Tsukami",
+                        "category":"Uncommon",
+                        "size":362,
+                        "sell":5320,
+                        "image": "https://i.imgur.com/hX6Sqmr.png"
                     },
                     {
                         "ID":2,
-                        "name":"Quặng Hạt Vàng",
-                        "category":"Common",
-                        "size":31,
-                        "sell":200,
-                        "image": "https://i.imgur.com/zehWGoZ.png"
+                        "name":"White Fatalis",
+                        "category":"Legendary",
+                        "size":821,
+                        "sell":26500,
+                        "image": "https://i.imgur.com/Z1KYKt1.png"
                     },
                     {
                         "ID":3,
-                        "name":"Mảnh Vỡ Cổ Đại",
-                        "category":"Legendary",
-                        "size":27,
-                        "sell":1900,
-                        "image": "https://i.imgur.com/JJwen49.png"
+                        "name":"Teostra",
+                        "category":"Epic",
+                        "size":517,
+                        "sell":7500,
+                        "image": "https://i.imgur.com/wj9locm.png"
                     },
                     {
                         "ID":4,
-                        "name":"Nether Quartz Ore",
+                        "name":"Lunastra",
                         "category":"Uncommon",
-                        "size":120,
-                        "sell":990,
-                        "image": "https://i.imgur.com/2lk1JeN.png"
+                        "size":420,
+                        "sell":4290,
+                        "image": "https://i.imgur.com/OqCCeip.png"
                     }
                 ]
             },
